@@ -1,0 +1,71 @@
+# 🔐 Política de Privacidade do Bot
+
+> Última atualização: **22 de maio de 2025**
+
+Esta Política de Privacidade explica como as informações são tratadas durante o uso deste bot no Discord. Ao utilizar o bot, você concorda com os termos descritos aqui.
+
+---
+
+## 📥 1. Coleta de Dados
+
+Este bot **não coleta dados pessoais sensíveis** como nome real, e-mail ou localização.  
+As únicas informações temporariamente processadas são:
+
+- ID de usuário do Discord
+- ID do servidor (guild)
+- Comandos executados
+- Respostas do bot
+
+Esses dados são usados **apenas durante o funcionamento da sessão atual** e não são armazenados permanentemente.
+
+---
+
+## 🛡️ 2. Segurança dos Dados
+
+- Nenhum dado coletado é compartilhado com terceiros.
+- Não há armazenamento em banco de dados ou servidores externos, a menos que explicitamente informado.
+- Utilizamos boas práticas de segurança para evitar abusos e falhas.
+
+---
+
+## ❌ 3. Exclusão de Dados
+
+Como não há armazenamento permanente, **nenhuma ação de exclusão é necessária**.  
+Se futuramente dados forem armazenados, será oferecida uma opção para solicitação de remoção.
+
+---
+
+## 📊 4. Uso de Dados
+
+Os dados coletados temporariamente são usados exclusivamente para:
+
+- Executar comandos corretamente
+- Garantir que o bot funcione de forma estável e segura
+- Personalizar a experiência (se o bot possuir funções de configuração por servidor)
+
+---
+
+## 👥 5. Terceiros
+
+Este bot **não utiliza serviços de terceiros para análise, rastreamento ou publicidade**.
+
+---
+
+## ✏️ 6. Alterações nesta Política
+
+A Política de Privacidade pode ser atualizada a qualquer momento.  
+Mudanças serão comunicadas no canal de suporte ou página oficial do bot.
+
+---
+
+## 📬 Contato
+
+Caso tenha dúvidas sobre esta política, entre em contato:
+
+**Discord:** `SeuUser#1234`  
+**GitHub:** [seu-usuario](https://github.com/seu-usuario)  
+**E-mail:** contato@seudominio.com
+
+---
+
+> © 2025 - Todos os direitos reservados.
